@@ -1,0 +1,1 @@
+ main.d  main.p1:  main.c ds1307.h clcd.h EEP.h main.h pass.h i2c.h matrix_keypad.h uart.h adc.h changepass.h settime.h
